@@ -1,5 +1,5 @@
 ## This function takes as its input a matrix that has been 
-## saved as a separate object (i.e. a <- matrix(1:6, 2, 3))
+## saved as a separate object (i.e. a <- matrix(1:4, 2, 2))
 ## and creates a "special matrix", or list of functions to 
 ## (1) set the value of the matrix
 ## (2) get the value of the matrix
